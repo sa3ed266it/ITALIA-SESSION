@@ -27,5 +27,5 @@ if okvai == "":
         print("Check Your Saved Massages")
         client.send_message(
             "me",
-            f"SESSION:\n\n`{client.session.save()}`\n\nMade With Love By [𝙄𝙏𝘼𝙇𝙄𝘼](t.me/IT_S6)",
+            f"SESSION:\n\n`{client.session.save()}`\n\nMade With Love By [𝗜𝗧𝗔𝗟𝗜𝗔](t.me/IT_S6)",
         )
